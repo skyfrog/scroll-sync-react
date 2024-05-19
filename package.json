@@ -1,10 +1,10 @@
 {
-  "name": "scroll-sync-react",
+  "name": "pj-scroll-sync-react",
   "version": "1.2.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "repository": {
-    "url": "https://github.com/AhmadMHawwash/scroll-sync-react",
+    "url": "https://github.com/skyfrog/scroll-sync-react",
     "type": "git"
   },
   "license": "MIT",
